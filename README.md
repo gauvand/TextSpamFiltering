@@ -19,7 +19,7 @@ meteorological data can be very useful for organizations involved in agricultura
 mitigation and control, and general weather knowledge.
 
 ## Dataset   
-The dataset that we have chosen to use for this task is publicly available on Kaggle. The data contains
+The dataset that we have chosen to use for this task is publicly available on [Kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package). The data contains
 a binary response variable on whether it will ('Yes') or won't ('No') rain the next day as well as 24
 features such as location, temperature, wind speed, wind direction, etc. The data contains the
 city/county as well as the date for which the data was recorded from various Australian weather
@@ -38,3 +38,4 @@ ttps://en.wikipedia.org/wiki/2019%E2%80%9320_Australian_bushfire_season
 2. Holden, Z., Swanson, A., Luce, C., Jolly, W., Maneta, M., Oyler, J., . . . Affleck, D. (2018, September
 04). Decreasing fire season precipitation increased recent western US forest wildfire activity. 
 Retrieved December 01, 2020, from https://www.pnas.org/content/115/36/E8349.short
+3. https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
