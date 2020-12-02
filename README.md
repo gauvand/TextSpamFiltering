@@ -33,8 +33,7 @@ to use Bayesian Model Averaging to select the model which performs best with a g
 features.
 
 ## References   
-1. 2019–20 Australian bushfire season. (2020, November 29). Retrieved December 01, 2020, from h
-ttps://en.wikipedia.org/wiki/2019%E2%80%9320_Australian_bushfire_season
+1. 2019–20 Australian bushfire season. (2020, November 29). Retrieved December 01, 2020, from https://en.wikipedia.org/wiki/2019%E2%80%9320_Australian_bushfire_season
 2. Holden, Z., Swanson, A., Luce, C., Jolly, W., Maneta, M., Oyler, J., . . . Affleck, D. (2018, September
 04). Decreasing fire season precipitation increased recent western US forest wildfire activity. 
 Retrieved December 01, 2020, from https://www.pnas.org/content/115/36/E8349.short
