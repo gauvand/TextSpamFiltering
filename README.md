@@ -38,3 +38,5 @@ features.
 04). Decreasing fire season precipitation increased recent western US forest wildfire activity.
 Retrieved December 01, 2020, from https://www.pnas.org/content/115/36/E8349.short   
 3. https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
+4. https://stackoverflow.com/questions/44124436/python-datetime-to-season 
+5. http://www.bom.gov.au/climate/glossary/seasons.shtml  
